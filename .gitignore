@@ -1,0 +1,4 @@
+# list of file types and directories to ignore
+*.exe
+/bin
+/obj
